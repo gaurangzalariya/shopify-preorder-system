@@ -2,6 +2,29 @@
 
 Yo! This is a super lit pre-order system for your Shopify store that lets customers secure the bag even when products are OOS (out of stock). It's giving main character energy with automatic redirects and warehouse management - fr fr! 
 
+## Why Choose This System? 💡
+
+### For Store Owners 📈
+- **Capture Lost Sales**: Convert out-of-stock situations into revenue opportunities
+- **Improve Cash Flow**: Secure payments upfront before product availability
+- **Gauge Demand**: Measure product interest before committing to inventory
+- **Reduce FOMO**: Keep customers engaged even when items are temporarily unavailable
+- **Better Inventory Planning**: Use pre-order data to optimize stock levels
+
+### For Customers 🛍️
+- **Never Miss Out**: Secure desired products before they're in stock
+- **Transparent Timeline**: Clear visibility on expected shipping dates
+- **Guaranteed Fulfillment**: Priority access to incoming inventory
+- **Seamless Experience**: Same checkout process as regular orders
+- **Clear Communication**: Automated updates about order status
+
+### For Operations 🔄
+- **Streamlined Management**: Automated inventory tracking and updates
+- **Reduced Manual Work**: Automatic switching between regular and pre-order modes
+- **Organized Fulfillment**: Clear separation between regular and pre-order items
+- **Risk Management**: Better control over inventory investments
+- **Enhanced Planning**: Improved forecasting capabilities
+
 ## The Tea ☕ (Features)
 
 - Automatically shows that pre-order button when stuff's sold out - period! 🎯
@@ -72,6 +95,36 @@ This system's got your back and:
 - Keeps it 💯 with shipping dates
 - Manages inventory like a whole CEO
 - Handles those redirects on fleek
+
+## Use Cases 🎯
+
+1. **Seasonal Products**
+   - Holiday collections
+   - Limited edition items
+   - Seasonal fashion lines
+
+2. **High-Demand Items**
+   - New product launches
+   - Exclusive collections
+   - Popular restocks
+
+3. **Custom-Made Products**
+   - Personalized items
+   - Made-to-order products
+   - Custom configurations
+
+4. **Inventory Management**
+   - Buffer for production delays
+   - Managing supply chain uncertainties
+   - Demand forecasting
+
+## ROI Impact 📊
+
+- **Revenue Growth**: Capture sales that would otherwise be lost to out-of-stock situations
+- **Customer Satisfaction**: Reduce frustration from missed purchase opportunities
+- **Inventory Efficiency**: Better cash flow management and reduced storage costs
+- **Market Intelligence**: Gather valuable data on product demand
+- **Competitive Edge**: Offer pre-order options when competitors show "Sold Out"
 
 ## Let's Link! 🤝
 
