@@ -2,6 +2,29 @@
 
 A dynamic pre-order management system for Shopify stores that enables customers to place orders even when products are out of stock. Features automated redirects and comprehensive inventory management.
 
+## Why Choose This System? 💡
+
+### For Store Owners 📈
+- **Capture Lost Sales**: Convert out-of-stock situations into revenue opportunities
+- **Improve Cash Flow**: Secure payments upfront before product availability
+- **Gauge Demand**: Measure product interest before committing to inventory
+- **Reduce FOMO**: Keep customers engaged even when items are temporarily unavailable
+- **Better Inventory Planning**: Use pre-order data to optimize stock levels
+
+### For Customers 🛍️
+- **Never Miss Out**: Secure desired products before they're in stock
+- **Transparent Timeline**: Clear visibility on expected shipping dates
+- **Guaranteed Fulfillment**: Priority access to incoming inventory
+- **Seamless Experience**: Same checkout process as regular orders
+- **Clear Communication**: Automated updates about order status
+
+### For Operations 🔄
+- **Streamlined Management**: Automated inventory tracking and updates
+- **Reduced Manual Work**: Automatic switching between regular and pre-order modes
+- **Organized Fulfillment**: Clear separation between regular and pre-order items
+- **Risk Management**: Better control over inventory investments
+- **Enhanced Planning**: Improved forecasting capabilities
+
 ## Key Features 🎯
 
 - Smart pre-order button activation when inventory depletes
