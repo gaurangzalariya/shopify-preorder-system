@@ -73,29 +73,27 @@ The pre-order system automatically:
 - Manages inventory separately for pre-orders
 - Handles redirections between product variants
 
-## 🤝 Contributing
+## 📞 Contact & Support
 
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Need help with this pre-order system or looking for Shopify development services?
 
-## 📝 License
+I'm Gaurang (Gary) Zalariya, a Frontend Expert specializing in:
+- Shopify Development
+- Custom Theme Development
+- E-commerce Solutions
+- ReactJS & Next.js
+- Figma & Web Design
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🆘 Support
-
-For support, please:
-- Check the [Installation Guide](docs/installation-guide.md)
-- Open an issue in the repository
-- Contact Shopify support for store-specific questions
+### 🔗 Connect With Me
+Visit my [Linktree](https://linktr.ee/gaurangzalariya) for:
+- Portfolio & Work Samples
+- Booking Meetings
+- Social Media Profiles
+- Direct Messaging Options
 
 ## ✍️ Authors
 
-- **Gaurang Zalariya** - *Initial work*
+- **Gaurang Zalariya** - *🚀 Frontend Expert | Founder, Wonqy Media | Figma, Shopify, WP, ReactJS, Next.js*
 
 ---
 
