@@ -85,7 +85,7 @@ I'm Gaurang (Gary) Zalariya, a Frontend Expert specializing in:
 - Figma & Web Design
 
 ### 🔗 Connect With Me
-Visit my [Linktree](https://linktr.ee/gaurangzalariya) for:
+Visit my [Linktree](https://linktr.ee/gaurangzalariya){:target="_blank"} for:
 - Portfolio & Work Samples
 - Booking Meetings
 - Social Media Profiles
