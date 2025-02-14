@@ -32,6 +32,18 @@ A powerful and flexible pre-order management system for Shopify stores that enab
 ## 📁 File Structure
 
 ```
+shopify-preorder-system/
+├── assets/
+│   └── preorder.js
+├── snippets/
+│   ├── preorder-button.liquid
+│   └── preorder-redirect.liquid
+├── templates/
+│   └── product.liquid
+├── docs/
+│   └── installation-guide.md
+└── README.md
+```
 
 ## 🔧 Configuration
 
@@ -44,6 +56,16 @@ A powerful and flexible pre-order management system for Shopify stores that enab
    - Set up required metafields for each product
    - Configure warehouse inventory settings
    - Set estimated shipping dates
+
+3. **Redirect Setup**
+   - Include the redirect snippet in your product template:
+     ```liquid
+     {% render 'preorder-redirect' %}
+     ```
+   - Add the redirect URL in product metafields:
+     - Go to product settings
+     - Set `custom.pre_order_product_redirect` metafield with the normal product URL
+     - Format: `/products/normal-product`
 
 ## 💡 Usage
 

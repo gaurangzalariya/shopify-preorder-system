@@ -1,0 +1,9 @@
+{% if request.page_type == 'product' %}
+  {% assign preorder_redirect_product_url = product.metafields.custom.pre_order_product_redirect %}
+
+  {% if preorder_redirect_product_url %}
+    <script>
+      window.location.href = '{{ preorder_redirect_product_url }}';
+    </script>
+  {% endif %}
+{% endif %} 
