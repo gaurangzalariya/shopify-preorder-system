@@ -5,8 +5,8 @@ A powerful and flexible pre-order management system for Shopify stores that enab
 ## ✨ Features
 
 - 🔄 Automatic pre-order button display for out-of-stock variants
-- 📅 Customizable estimated shipping dates via metafields
-- 🔀 Smart redirection between pre-order and regular products
+- 📅 Estimated shipping dates tracking via `pre_order_ship_by_date`
+- 🔀 Smart product redirection system between pre-order and regular versions
 - 🛒 Seamless integration with Shopify AJAX Cart
 - 🏭 Warehouse inventory separation for pre-orders
 - 📱 Fully responsive design
@@ -23,11 +23,9 @@ A powerful and flexible pre-order management system for Shopify stores that enab
 
 | Metafield | Namespace & Key | Type | Description |
 |-----------|----------------|------|-------------|
-| Pre-Order Status | `custom.is_preorder_product` | Boolean | Identifies pre-order products |
-| Ship Date | `custom.pre_order_ship_by_date` | Date | Expected shipping date |
-| Redirect URL | `custom.pre_order_product_redirect` | Single line text | Regular product URL |
-| Custom Message | `custom.pre_order_message` | Single line text | Pre-order notification text |
-| Warehouse Type | `custom.warehouse_inventory_type` | Single line text | Stock type (`preorder`/`normal`) |
+| Pre-Order Redirect | `custom.pre_order_product_redirect` | Single line text | URL of the normal product for redirection (e.g., `/products/normal-product`) |
+| Linked Pre-Order Product | `custom.select_pre_order_product` | Product reference | Select the pre-order version of this product |
+| Ship By Date | `custom.pre_order_ship_by_date` | Date | Expected shipping date for pre-order items |
 
 ## 📁 File Structure
 
