@@ -1,0 +1,8 @@
+# macOS System Files
+.DS_Store
+.DS_Store?
+
+# Shopify
+.shopify/
+
+# Node

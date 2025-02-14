@@ -1,0 +1,14 @@
+{% assign preorder_product = product.metafields.custom.select_pre_order_product | remove: 'gid://shopify/Product/' %}
+{% assign pre_order_ship_by_date = product.metafields.custom.pre_order_ship_by_date %}
+{% assign formatted_date = pre_order_ship_by_date | date: '%B, %d' | replace: ', 0', ', ' %}
+
+{% if preorder_product %}
+    <button id="button_preorder" class="btn btn--full add-to-cart add-to-cart--secondary tw-hidden" style="letter-spacing: 0px; margin-top: 10px;">
+        Add Pre-Order to Cart
+        {% if formatted_date %}
+            <br>
+            <small>Preorder & Save: Ship by {{ formatted_date }}</small>
+        {% endif %}
+    </button>
+    <script src="{{ 'preorder.js' | asset_url }}" defer></script>
+{% endif %}
